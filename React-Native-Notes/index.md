@@ -23,4 +23,5 @@ Explore this notes either by searching for specific topic or [[tags]].
 
 >[!Note]
 >If you find any error or have any suggestion, feel free to create a PR on [github](https://github.com/KMJ-007/notes-react-native).
+>
 >If you find this notes useful, please share it with your friends.

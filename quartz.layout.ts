@@ -24,6 +24,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/KMJ-007/notes-react-native",
       Twitter: "https://twitter.com/karanjanthe",
+      SocialImage: "https://xkcd.com/1927/",
     },
   }),
 }
