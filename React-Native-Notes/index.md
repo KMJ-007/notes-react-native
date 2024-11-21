@@ -11,13 +11,17 @@ like:
 - [[What is Expo & Why is Expo?]]
 - [[How to generate APK?]]
 - [[I deleted gradle from my system, what to do?]]
+- [[How to handle env?]]
+- [[How to use firebase in emulator]]
 - [[Automating the build and deployment process using github actions]]
 - [[When to use Expo Go APP and when not to?]]
+- [[difference between fastlane and eas for app building]]
 
 I am curious guy, so i liked to go deep into topics so this also includes some of the engineering concepts and how things work under the hood:
 
 - [[How React Native Works?]]
 - [[How to Profile React Native App?]]
+- [[How does Cloud Firestore work?]]
 
 Explore this notes either by searching for specific topic or [[tags]].
 

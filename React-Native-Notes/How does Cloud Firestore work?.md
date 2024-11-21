@@ -1,0 +1,1 @@
+https://victorbrandalise.com/how-does-cloud-firestore-work/#:~:text=Locally%20Firestore%20creates%20a%20simplified,when%20doing%20collection%20group%20queries.
