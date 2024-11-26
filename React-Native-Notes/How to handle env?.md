@@ -1,9 +1,9 @@
 ---
-title: How to handle env in react-native?
+title: How to handle env in project?
 tags:
   - env
-  - react-native
   - good-practice
+  - typescript
 ---
 After working on many projects i have adopted this good env handling pattern in general.
 
