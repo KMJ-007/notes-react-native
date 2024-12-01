@@ -5,7 +5,7 @@ tags:
   - react-native
   - safe-area
 ---
-![[headercrashbug.gif]]
+<div style="display: flex; justify-content: space-between; align-items: center;"> <div style="text-align: center;"> <img src="headercrashbug.gif" alt="Before Bug Fix" style="width: 45%; height: auto;" /> <p>Before Bug Fix</p> </div> <div style="text-align: center;"> <img src="resolvedheadercrashbug.gif" alt="After Bug Fix" style="width: 45%; height: auto;" /> <p>After Bug Fix</p> </div> </div>
 
 How to resolve above bug?
 
@@ -35,5 +35,4 @@ return(
 
 solution is to give padding, but not any hardcoded values, using insets and headerheight from react-navigation and safe-area-context
 
-After:
-![[resolvedheadercrashbug.gif]]
+
