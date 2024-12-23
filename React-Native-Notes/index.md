@@ -9,7 +9,7 @@ They includes all the common questions and errors which are usually not covered 
 like:
 
 - [[What is Expo & Why is Expo?]]
-- [[How to generate APK?]]
+- [[How to build APK]]
 - [[I deleted gradle from my system, what to do?]]
 - [[How to handle env?]]
 - [[How to use firebase in emulator]]
